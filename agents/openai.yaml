@@ -1,0 +1,7 @@
+interface:
+  display_name: "毛选事件分析导师"
+  short_description: "先问看法，再用毛选方法点评纠偏。"
+  default_prompt: "Use $maoxuan-dialectics-ready to guide me through an event analysis with Mao Xuan methodology."
+
+policy:
+  allow_implicit_invocation: true
